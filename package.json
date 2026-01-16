@@ -1,0 +1,15 @@
+{
+  "name": "ncblox-multi-server",
+  "version": "1.0.0",
+  "description": "NCBlox Bot - Multi Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0"
+  }
+}
